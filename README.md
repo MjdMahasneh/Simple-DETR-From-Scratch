@@ -85,23 +85,24 @@ For inference, modify and run `inference.py` script as needed. You can adjust th
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; width: 75%; margin: auto;">
 
-  <div style="flex: 1 0 45%; margin: 10px;">
+  <div style="width: 48%; margin: 1%;">
     <img src="./demo/1.png" style="width: 100%;" />
   </div>
 
-  <div style="flex: 1 0 45%; margin: 10px;">
+  <div style="width: 48%; margin: 1%;">
     <img src="./demo/2.png" style="width: 100%;" />
   </div>
 
-  <div style="flex: 1 0 45%; margin: 10px;">
+  <div style="width: 48%; margin: 1%;">
     <img src="./demo/3.png" style="width: 100%;" />
   </div>
 
-  <div style="flex: 1 0 45%; margin: 10px;">
+  <div style="width: 48%; margin: 1%;">
     <img src="./demo/4.png" style="width: 100%;" />
   </div>
 
 </div>
+
 
 
 ## 📌 Notes and Observations
