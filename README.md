@@ -83,23 +83,12 @@ python train.py
 
 For inference, modify and run `inference.py` script as needed. You can adjust the model checkpoint, input image, and output directory.
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; width: 75%; margin: auto;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; width: 75%; margin: auto;">
 
-  <div style="width: 48%; margin: 1%;">
-    <img src="./demo/1.png" style="width: 100%;" />
-  </div>
-
-  <div style="width: 48%; margin: 1%;">
-    <img src="./demo/2.png" style="width: 100%;" />
-  </div>
-
-  <div style="width: 48%; margin: 1%;">
-    <img src="./demo/3.png" style="width: 100%;" />
-  </div>
-
-  <div style="width: 48%; margin: 1%;">
-    <img src="./demo/4.png" style="width: 100%;" />
-  </div>
+  <img src="./demo/1.png" style="width: 100%;" />
+  <img src="./demo/2.png" style="width: 100%;" />
+  <img src="./demo/3.png" style="width: 100%;" />
+  <img src="./demo/4.png" style="width: 100%;" />
 
 </div>
 
